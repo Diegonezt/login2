@@ -40,7 +40,7 @@
           </li>        
         </ul>
         <a href="/login2/view/home/login.php" class"boton">Iniciar Sesión</a>
-        <a href="/login2/view/home/login.php" class"boton">Registrate</a>
+        <a href="/login2/view/home/singup.php" class"boton">Registrate</a>
       </div>
     </div>
   </nav>
