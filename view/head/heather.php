@@ -1,11 +1,11 @@
 <?php
-    require_once("c://xampp/htdocs/login/view/head/head.php");
+    require_once("c://xampp/htdocs/login2/view/head/head.php");
 ?>
 
 
 
 <?php
-    require_once("c://xampp/htdocs/login/view/head/footer.php");
+    require_once("c://xampp/htdocs/login2/view/head/footer.php");
 ?>
 
 
@@ -39,8 +39,8 @@
             </ul>
           </li>        
         </ul>
-        <a href="/login/view/home/login.php" class"boton">Iniciar Sesión</a>
-        <a href="/login/view/home/login.php" class"boton">Registrate</a>
+        <a href="/login2/view/home/login.php" class"boton">Iniciar Sesión</a>
+        <a href="/login2/view/home/login.php" class"boton">Registrate</a>
       </div>
     </div>
   </nav>
